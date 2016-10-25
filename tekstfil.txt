@@ -1,4 +1,3 @@
-textfil
-for
-merge
-konflikt
+linje2
+linje1
+linje4
