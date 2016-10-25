@@ -1,1 +1,4 @@
 Linje
+linje2
+linje1
+linje4
